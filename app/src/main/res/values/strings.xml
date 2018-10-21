@@ -6,4 +6,6 @@
     <string name="disconnect_button">Desconectar</string>
     <string name="clean_btn">Limpiar</string>
     <string name="exit_btn">Exit</string>
+    <string name="velocity_start">1</string>
+    <string name="speed">Velocidad</string>
 </resources>
