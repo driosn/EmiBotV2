@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmiBot V2.0</string>
+    <string name="emibot">EmiBOT V2.0</string>
+    <string name="robotica_educativa">Robotica Educativa</string>
+    <string name="connect_btn">Conectar</string>
+    <string name="disconnect_button">Desconectar</string>
+    <string name="clean_btn">Limpiar</string>
+    <string name="exit_btn">Exit</string>
+</resources>
