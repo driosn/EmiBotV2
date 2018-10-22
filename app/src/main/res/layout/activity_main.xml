@@ -243,7 +243,7 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/send_btn"
+                android:text="Esto es una prueba"
                 android:background="@drawable/emi_borders"
                 android:textColor="@color/myWhite"
                 android:layout_weight="1"
